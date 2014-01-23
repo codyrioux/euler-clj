@@ -10,7 +10,7 @@
 
 (ann div-by [Int Int -> Boolean])
 (defn div-by [x y]
-  (== (mod y x) 0))
+  (= (mod y x) 0))
 
 (ann div-by-3-or-5 [Int -> Boolean])
 (defn div-by-3-or-5 [x]

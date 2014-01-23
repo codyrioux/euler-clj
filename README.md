@@ -3,7 +3,12 @@
 A clojure repository containing my solutions to project euler problems.
 This is primarily a testbed to help me get some experience using core.typed
 as my daily research code doesnt' afford me a lot of extra time in
-doing so.
+doing so. However I'll also be exploring other things here as time goes on,
+I'll try to maintain a full list here:
+
+- core.typed
+- clojure.test
+- simple-check
 
 ## Usage
 
